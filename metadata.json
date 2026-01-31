@@ -1,0 +1,7 @@
+{
+  "name": "Avatar Sync Overlay",
+  "description": "A frontend tool to overlay a lip-syncing avatar on top of external AI websites using browser audio capture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
